@@ -61,3 +61,11 @@ t_good = [x for x in t if x is not None]
 # how to print the average, min, max response time?
 
 print(t_good)
+sum_average = sum(t_good)
+length = len(t_good)
+avg = sum_average / length
+print(f"This is the average: {avg}\n")
+max_value = max(t_good)
+print(f"This is the max: {max_value}\n")
+min_value = min(t_good)
+print(f"This is the min: {min_value}\n")
