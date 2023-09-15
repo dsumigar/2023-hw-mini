@@ -1,6 +1,6 @@
 Exercise 1:
 
-Q1) I believe that the program will take less than a second to run. Yes, our prediction was correct, it ran in 0.92 seconds. The program prints out “How many times shall I loop?”. 
+Question 1: I believe that the program will take a little more than 3 seconds to run for 3 loop iterations and a 1 second sleep time between iterations. Yes, our prediction was correct, it ran in 3.003 seconds and the predicted time was 3 seconds. The program prints out “How many times shall I loop?”; asking for an input. Then it prints “How long shall U sleep for each loop iteration”; asking for an input. Once these inputs are given, the program prints “Total time (predicted, seconds): 3.0. The rest of what is printed is shown below through the screenshot.  
 
 ![image](https://github.com/dsumigar/2023-hw-mini/assets/114698332/26b7282c-b9c2-496c-990c-780a43de8ff7)
 
