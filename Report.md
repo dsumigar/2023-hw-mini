@@ -2,6 +2,8 @@ Exercise 1:
 
 Q1) I believe that the program will take less than a second to run. Yes, our prediction was correct, it ran in 0.92 seconds. The program prints out “How many times shall I loop?”. 
 
+![image](https://github.com/dsumigar/2023-hw-mini/assets/114698332/26b7282c-b9c2-496c-990c-780a43de8ff7)
+
 Q2) The “int” and “float” notation indicates different variable data types. The program won’t run if those notations are removed 
 
 Q3) “time.ticks_diff(toc,tic)” is used instead of toc - tic because it uses ring arithmetic to ensure that the result is accurate for wrap-around values.
